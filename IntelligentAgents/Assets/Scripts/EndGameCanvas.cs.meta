@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1566da18f68a3342871158a7c12e091
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - titlePanel: {instanceID: 0}
+  - credsPanel: {instanceID: 0}
+  - options: {instanceID: 0}
+  - village: {fileID: 3782940335458871487, guid: 767cc96715d9fcf4a89b24162d65778e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
